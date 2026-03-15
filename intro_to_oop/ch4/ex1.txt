@@ -1,0 +1,7 @@
+1. "has-a"
+2. "has-a"
+3. "has-a"
+4. neither
+5. "is-a"
+6. "is-a"
+7. "is-a"
