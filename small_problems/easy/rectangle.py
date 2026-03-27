@@ -26,8 +26,7 @@ class Rectangle:
 
 class Square(Rectangle):
     def __init__(self, side_length):
-        self._width = side_length
-        self._height = side_length
+        super().__init__(side_length, side_length)
 
 rect = Rectangle(4, 5)
 

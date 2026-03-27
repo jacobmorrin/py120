@@ -32,8 +32,6 @@ class Dog(Animal):
     def introduce(self):
         return f"{super().introduce()} Woof! Woof!"
 
-
-
 cat = Cat("Pepe", 4, "happy")
 expected = ("Hello, my name is Pepe and I am 4 years old "
             "and happy. Meow meow!")
