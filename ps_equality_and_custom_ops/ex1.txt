@@ -1,0 +1,7 @@
+>  __gt__
+*  __mul__
+<=  __le__
+!=  __ne__
++=  __iadd__
+**= ipow
+// __floo__rdiv
